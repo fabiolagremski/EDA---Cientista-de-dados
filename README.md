@@ -103,6 +103,5 @@ Interesses: análise de dados, business intelligence, marketing analytics e inte
 
 linkedin: https://www.linkedin.com/in/fabiola-gremski-mika/
 
-github: https://github.com/fabigremski
 
 e-mail: fabigremski@gmail.com
